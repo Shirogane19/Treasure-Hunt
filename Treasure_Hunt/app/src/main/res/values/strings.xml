@@ -1,14 +1,36 @@
 <resources>
-    <string name="app_name">Busqueda del tesoro</string>
+    <string name="app_name">Buscando el tesoro</string>
     <string name="correo">Correo</string>
     <string name="login">Ingresar</string>
     <string name="register">Registrarse</string>
     <string name="password">Password</string>
     <string name="confirmpassword">Confirmar Password</string>
     <string name="title_activity_landing">Landing</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
-    <string name="tab_text_3">Tab 3</string>
-    <string name="action_settings">Settings</string>
+    <string name="tab_text_1">Misiones</string>
+    <string name="tab_text_2">Mis Misiones</string>
+    <string name="tab_text_3">Publicar Misiones</string>
+    <string name="action_logout">Salir</string>
+    <string name="nombreMision">Nombre de la busqueda</string>
+    <string name="descripcion">Descripción</string>
+    <string name="fechaFinalizacion">Fecha de finalización</string>
+    <string name="crearBusqueda">Crear Misión</string>
+    <string name="aceptarMision">Aceptar misión</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="registro">Registro</string>
+    <string name="diferenteContrasenna">Las contraseñas son diferentes</string>
+    <string name="registrado">Éxito ya estas registrado</string>
+    <string name="campos_vacios">Hay campos vacios :(</string>
+    <string name="correo_invalido">Formato de correo inválido</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="registrando">Registrando...</string>
+    <string name="cargaComprobar">Comprobando usuario...</string>
+    <string name="exito">Éxito</string>
+    <string name="contrasennaInvalida">Correo o contaseña inválida.</string>
+    <string name="noRegitrado">No se pudo registrar :(</string>
+    <string name="existeUsuario">Este usuario ya existe</string>
+    <string name="noInternet">No hay conexión de internet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
